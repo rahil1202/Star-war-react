@@ -6,12 +6,17 @@ Welcome to the Star Wars Planets Directory web application! This project utilize
 
 ## Table of Contents
 
+- [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Frameworks and Libraries](#frameworks-and-libraries)
 - [Project Structure](#project-structure)
-- [Live Demo](#live-demo)
 - [License](#license)
+
+
+## Live Demo
+
+This project is deployed using Vercel.Visit the live demo [Live here](https://star-wars-rahil1202.vercel.app).
 
 ## Getting Started
 
@@ -69,9 +74,6 @@ star-wars-planets-directory/
 |-- package.json
 ```
 
-## Live Demo
-
-This project is deployed using Vercel.Visit the live demo [Live here](https://star-wars-rahil1202.vercel.app).
 
 ## License
 
